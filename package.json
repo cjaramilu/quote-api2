@@ -1,0 +1,14 @@
+{
+  "name": "quoteapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Davis (https://ethanent.me",
+  "license": "ISC",
+  "dependencies": {
+    "vaxic": "^2.3.7"
+  }
+}
